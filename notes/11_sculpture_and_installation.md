@@ -1,4 +1,4 @@
-## 11 Sculpture and Installation
+### 11 Sculpture and Installation
 pg 241-264
 
 + Methods and Materials of Sculpture
@@ -36,11 +36,8 @@ kind into which liquid or semi liquid is poured and allowed to harden.
 3\. In **carving** the sculptor begins with a block of material and cuts, chips, and gouges away until the form emerges. It is a subtractive process.
 + *Wood* and *stone* are the principal materials historically used for this process.
 
->11.8 (above) Tilman Riemenschneider. Virgin and Child on the Crescent Moon. c. 1495. Limewood
-11.9 (left) Colossal Head. Olmec, 1500–300 B.C.E. Basalt
 
 4\. In **assembling**, individual pieces, segments, or objects are brought together to form a sculpture. It is an additive process
-> 11.11 Roxy Paine. Conjoined. 2007. Stainless steel and concrete
 
 ### The human figure in Sculpture
 The Human figure is a basic subject for sculpture throughout time.
@@ -53,3 +50,9 @@ found there, especially the earth itself.
 + **Installation**: An artist modifies a space in some way and asks us to enter, explore, and experience it.
 > 11.23 Serpent Mound, near Locust Grove, Ohio. c. 1070 C.E. Overall length (uncoiled) approx.
 11.24 Andy Goldsworthy. Reconstructed Icicles, Dumfriesshire, 1995. 1995. Icicles, reconstructed and refrozen.
+
+
+#### References
+11.9\. p248, Carving [Virgin and Child on the Crescent Moon](https://museenkoeln.de/museum-fuer-angewandte-kunst/Riemenschneider-EN)
+11.10\. p248, Carving [Colossal Head](https://en.wikipedia.org/wiki/Olmec_colossal_heads)
+11.11\. p249, Assembling [Stainless steel](https://www.artsy.net/artwork/david-smith-cubi-xxi)
