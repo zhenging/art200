@@ -1,4 +1,4 @@
-## 21 The Modern World 1800-1945
+### 21 The Modern World 1800-1945
 pg 471-499
 
 Key topics and Art Periods for this chapter include:
@@ -137,5 +137,5 @@ After the trauma of WWI artists wanted to transform the world so nothing of the 
 + **Constructivism**: The idea that art should be put to practiced through architecture, graphic design, theatrical productions, textiles and other visual forms; lead by the artist Tatlin.
 + **De Stijl**: Sought to create harmony between individuals and modern industry/technology. The artist Mondrian was a leader in this movement. He believed that vertical and horizontal elements and primary colors
 created rational beauty and balance in the world.
-+ **Bauhaus**: A design school founded by the architect Gropius; intended to teach artists a variety of disciplines and eliminate divisions between all art disciplines. 
++ **Bauhaus**: A design school founded by the architect Gropius; intended to teach artists a variety of disciplines and eliminate divisions between all art disciplines.
 + **Harlem Renaissance**: The merging of 3 American experiences: African heritage, the legacy of slavery, and the realities of modern urban life. The artist Douglas is representative of this era.
