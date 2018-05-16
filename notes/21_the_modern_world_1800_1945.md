@@ -1,4 +1,4 @@
-### 21 The Modern World 1800-1945
+## 21 The Modern World 1800-1945
 pg 471-499
 
 Key topics and Art Periods for this chapter include:
@@ -11,18 +11,18 @@ Key topics and Art Periods for this chapter include:
 + Dada and Surrealism
 + Between the Wars: Building New Societies
 
-> **Key Terms**
-> + Salon, Salon des Refuese, Salon d'Automme
-> + Pointillism
-> + Avant-Garde
-> + Die Brucke
-> + Der Blaue Reier
-> + Ready-mades
-> + Poetic Object
-> + Constructivism
-> + DeStijl
-> + Bauhuas
-> + Harlem Renaissance
+**Key Terms**
++ Salon, Salon des Refuese, Salon d'Automme
++ Pointillism
++ Avant-Garde
++ Die Brucke
++ Der Blaue Reier
++ Ready-mades
++ Poetic Object
++ Constructivism
++ DeStijl
++ Bauhuas
++ Harlem Renaissance
 
 **Driven by technological progress and rapid changes**, the 19th century spawned our industrialized modern middle-class culture of mass production, mass advertising, mass consumption, and mass leisure activities such as shopping, entertainment, and visiting art museums. Art was for everyone, not dominated by church or nobility. Debates about art and wide audience caused definition of art to be questioned yielding --isms.
 Art museums were developed in the 19th century. **First national museum** was **Louvre in Paris**. Art just for royalty was placed on exhibit.

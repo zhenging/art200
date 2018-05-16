@@ -1,4 +1,4 @@
-## ChThe 17th and 18th Centuries
+## Ch The 17th and 18th Centuries
 pg 388-408
 
 Art Periods for this chapter include:
